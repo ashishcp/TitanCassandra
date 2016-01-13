@@ -188,8 +188,8 @@ this package.
    Disconnecting From Cassandra Keyspace and Cluster
     ```
 
-   Note, if you are using the Titan 1.0.0 zip download, you will find that the logging is set to DEBUG,
-   and some DEBUG statements found are harmless, such as this:
+   Note, in some cases, if you change the classpath of the Sample program(s), you might see DEBUG statements like the following.
+   Things like this particular message are harmless.
 
    ```
    15:28:01.459 [main] DEBUG c.t.t.g.database.StandardTitanGraph - Installed shutdown hook Thread[Thread-3,5,main]
