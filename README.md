@@ -142,10 +142,10 @@ this package.
    ```
 
 5) To recap, at this point you have:
-   1) installed Titan 1.0.0
-   2) built this Sample project
-   3) created a Titan Graph backed by Cassandra and populated with a sample graph
-   4) created an empty Cassandra table in a new keyspace
+   1. installed Titan 1.0.0
+   2. built this Sample project
+   3. created a Titan Graph backed by Cassandra and populated with a sample graph
+   4. created an empty Cassandra table in a new keyspace
 
    Now we can run the Sample, showing how to pull data from the sample Titan graph and put it directly into Cassandra.
 
