@@ -7,14 +7,12 @@ but that requires altering the pom.xml file dependencies from the defaults in
 this package.
 
 1) Download Titan 1.0.0.
-
-   ..* You can download a prebuilt zip from [here](https://github.com/thinkaurelius/titan/wiki/Downloads).
+..* You can download a prebuilt zip from [here](https://github.com/thinkaurelius/titan/wiki/Downloads).
    The download link for the prebuild zip is very confusing.
    Just ignore all of that text and download the
    [Titan 1.0.0 with Hadoop 1 – recommended](http://s3.thinkaurelius.com/downloads/titan/titan-1.0.0-hadoop1.zip)
    package.
-
-   ..* You can download the source code from the [Titan Github repository](https://github.com/thinkaurelius/titan)
+..* You can download the source code from the [Titan Github repository](https://github.com/thinkaurelius/titan)
    using tag `1.0.0`. Build it with the directions in its [README](https://github.com/thinkaurelius/titan/blob/1.0.0/titan-dist/README.md).
 
 2) Clone and build this sample package.  Navigate to the top level directory in this project
