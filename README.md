@@ -6,6 +6,8 @@ This sample code was also run successfully with Titan 1.1.x and TinkerPop 3.1.x,
 but that requires altering the pom.xml file dependencies from the defaults in
 this package.
 
+This sample code is not intended for use with massive graphs or volumes of data.
+
 1) Download Titan 1.0.0.
   * You can download a prebuilt zip from [here](https://github.com/thinkaurelius/titan/wiki/Downloads).
    The download link for the prebuild zip is very confusing.
