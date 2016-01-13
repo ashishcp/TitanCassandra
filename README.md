@@ -146,7 +146,8 @@ this package.
    2. built this Sample project
    3. created a Titan Graph backed by Cassandra and populated with a sample graph
    4. created an empty Cassandra table in a new keyspace
-
+ 
+ 
    Now we can run the Sample, showing how to pull data from the sample Titan graph and put it directly into Cassandra.
 
    Navigate to the top level directory of the Sample project, then navigate into the `run` subdirectory. You should see a properties file called `driver10.properties`. Update the values appropriately for your environment. You should see a script called `runit10.sh`. Update the `PROJPATH` appropriately for your environment, then run the script. The output should look something like this:
