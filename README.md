@@ -26,7 +26,7 @@ this package.
    After running the `mvn clean install` command to build the Sample, you should
    have the example built. There will be several new directories in the project root directory: `target`, `configure`, and `run`.
 
-3) Copy the sample `titan-cassandra.properties` file from the Sample into your Titan 1.0.0 installation's conf directory, and the sample `graph1.xml` GraphML file into its data directory:
+3) Copy the sample `titan-cassandra.properties` file from the configure directory in the Sample project into your Titan 1.0.0 installation's conf directory, and the sample `graph1.xml` GraphML file into its data directory:
 
    ```
    $ export TITAN_HOME=~/titan-1.0.0-hadoop1
